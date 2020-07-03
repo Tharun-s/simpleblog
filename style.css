@@ -1,0 +1,133 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 700px;
+    background-color: #55bd10;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+
+}
+.profile img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.bottom{
+    position: relative;
+    top: 50px;
+
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: relative;
+    top: 20px;
+}
+.circle1{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.circle2{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.circle3{
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.circle4{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.circle5{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+
+.bottom{
+    border-top: solid 1px grey;
+    
+}
+.bottom input{
+    padding: 10px;
+    background-color: transparent;
+    background-color: grey;
+    color: white;
+}
+.container{
+    display: flex;
+}
+.top{
+    width: 70%;
+    position: relative;
+    left: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-right: 300px;
+}
+.main p{
+    position: relative;
+    bottom: 20px;
+    color: gray;
+}
+.main input{
+    padding: 7px;
+    position: relative;
+    bottom: 15px;
+
+}
+.subs :last-child{
+    background-color: #55bd10;
+    color: white;
+}
+.top{
+    padding-bottom: 20px;
+    border-bottom: 1px solid gainsboro;
+}
+.cards img{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 190px;
+    top: 30px;
+}
+.para{
+    display:flex;
+    flex-direction: column;
+    width: 400px;
+    height: 100px;
+    justify-content: center;
+    position: relative;
+    left: 300px;
+    bottom: 30px;
+}
+.para a{
+    position: relative;
+    bottom: 30px;
+}
+#esssay{
+    position: relative;
+    bottom: 40px;
+}
+#essay{
+    position: relative;
+    bottom: 40px;
+}
